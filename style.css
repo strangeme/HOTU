@@ -197,6 +197,7 @@ h2::after {
   font-size: 1.6rem;
   color: #aaa;
   text-align: justify;
+  hyphens: auto;
 }
 
 /* 联系我们部分 */
