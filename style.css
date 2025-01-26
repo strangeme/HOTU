@@ -128,7 +128,8 @@ h2::after {
 /* 我们是谁部分 */
 #about .description {
   font-size: 2rem;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
   max-width: 1000px;
   margin: 0 auto 4rem;
   line-height: 1.8;
@@ -196,6 +197,8 @@ h2::after {
 .card p {
   font-size: 1.6rem;
   color: #aaa;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* 联系我们部分 */
