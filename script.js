@@ -82,7 +82,7 @@ const translations = {
   
   en: {
     title: "HOTU Capital",
-    subtitle: "A Global investment institution based in Hong Kong that identifies global investment opportunities and excels at discovering high-quality, unique assets.",
+    subtitle: "A Global investment institution based in Hong Kong that identifies global investment opportunities and excels at discovering high-quality, unique assets. ",
     
     nav: {
       about: "STORY",
@@ -96,66 +96,66 @@ const translations = {
       description: "Our founding partners include family business heirs, startup CEOs, young leaders in the arts and sports industries, and seasoned financial experts.We focus on serving the new generation of families and entrepreneurs, aiming to grow alongside these visionary business leaders by deeply engaging in their entrepreneurial journeys, business development, and investment ventures. Beyond providing financial support, we offer comprehensive solutions tailored to their core needs in global asset allocation, business expansion, and resource integration.",
       vision: {
         title: "Vision",
-        text: "We aim to build a global family alliance for new-generation families, creating lasting value through collaboration and sharing, leading the infinite possibilities of future business, and truly achieving intergenerational inheritance."
+        text: "We are committed to establishing a global family alliance for the new generation, creating enduring value through collaboration and sharing, leading the limitless possibilities of future business, and truly achieving intergenerational succession."
       },
       mission: {
         title: "Mission",
-        text: "By providing comprehensive solutions tailored for entrepreneurs and next-generation business leaders, we help them achieve wealth preservation and growth, optimize global resource allocation, and provide professional risk management. Whether expanding in the business world or safeguarding family wealth, we remain by their side as trusted strategic partners. Houtu Capital, as a 'Growth Companion,' propels new-generation families to achieve both career and wealth success, providing support and guidance for global new-generation business leaders."
+        text: "By tailoring comprehensive solutions for entrepreneurs and next-generation business leaders, we assist them in preserving and enhancing wealth, optimizing global resource allocation, and providing professional safeguards such as risk management. Whether they are expanding their business ventures or safeguarding family wealth, we remain by their side as a trusted strategic partner. As a 'growth companion', HOTU CAPITAL propels new-generation families toward dual success in business and wealth, offering support and guidance to emerging global business leaders."
       }
     },
     
     strengths: {
-      title: "Core Strengths",
+      title: "APPROACH",
       card1: {
-        title: "Comprehensive Solutions",
-        text: "As your preferred partner, we start from needs and pain points. Whether it's business transformation, investment and financing, wealth management, risk control, philanthropy, or next-generation education planning, we are committed to creating highly customized solutions, truly achieving seamless integration from planning to implementation."
+        title: "Integrated Solution",
+        text: "As your preferred partner, we start by understanding your needs and challenges. Whether it's business development and transformation, investment and financing, wealth management, risk control, philanthropy, or next-generation education planning, we are dedicated to crafting highly customized solutions that ensure seamless integration from planning to implementation."
       },
       card2: {
         title: "Global Resource Network",
-        text: "Our global network covers China, the Middle East, Japan, Southeast Asia, Switzerland, and more, enabling rapid establishment of cross-border resources and connection bridges. Our team excels at identifying industry opportunities and expanding business boundaries. Whether in capital markets, international mergers and acquisitions, or regional cooperation, we can provide high-quality resource matching and efficient connections as needed."
+        text: "Our global network spans China, the Middle East, Japan, Southeast Asia, and Switzerland, enabling us to swiftly establish cross-border resource connections. Our team excels at identifying industry opportunities and expanding business boundaries. Whether in capital markets, international mergers and acquisitions, or regional cooperation, we provide high-quality resource matching and efficient coordination tailored to your needs."
       },
       card3: {
-        title: "Industry Expertise",
-        text: "We have senior experts covering multiple industries, including advanced manufacturing, technology, healthcare, real estate, finance, arts, and sports. This diverse background brings cross-domain insights and innovative thinking to our solution development, ensuring every decision combines industry wisdom with strategic foresight."
+        title: "Industry Cultivation",
+        text: "Our team comprises seasoned experts across various industries, including advanced manufacturing, technology, healthcare, real estate, finance, arts, and sports. This diverse background provides us with deep cross-disciplinary insights and innovative thinking when formulating solutions, ensuring that each decision we make embodies industry wisdom and strategic foresight."
       },
       card4: {
         title: "Investment Strategy",
-        text: "Focus on providing high-quality, scarce investment targets, including reasonably priced and rare primary market investment projects, non-standard secondary market investment opportunities, and alternative investment strategies."
+        text: "We specialize in providing high-quality, scarce investment opportunities, including rare primary market investment projects with reasonable price, non-standard secondary market investment opportunities, and unique investment strategies."
       }
     },
     
     business: {
-      title: "Business Areas",
+      title: "SERVICES",
       card1: {
         title: "Investment Management",
-        text: "Develop primary market, secondary market, alternative investment, and virtual asset investment strategies."
+        text: "Develop primary market, secondary market, unique investment and virtual asset investment strategies."
       },
       card2: {
         title: "Technology Innovation & Incubation",
-        text: "Provide high-quality, first-hand technology innovation and incubation projects; support the innovative development and business incubation of client family enterprises."
+        text: "Provide high-quality, first-hand technological innovation and incubation projects; Support the innovative development and incubation of clients' family businesses."
       },
       card3: {
         title: "Wealth Planning",
-        text: "Provide customized wealth management solutions and risk management strategies."
+        text: "Provide customized wealth management solutions and risk management."
       },
       card4: {
         title: "Next-Generation Education",
-        text: "Provide children's education planning services; create customized family inheritance education courses."
+        text: "Provide children's education planning services; Create customized family heritage education programs."
       },
       card5: {
         title: "Family Business Affairs",
-        text: "Provide business structure optimization and tax planning; support family businesses going global; introduce domestic and international investment resources."
+        text: "Provide corporate structure optimization and tax planning; Supporting the family business to go overseas; Introduce investment resources at home and abroad."
       },
       card6: {
         title: "Art Investment & Collection",
-        text: "Provide art collection strategy guidance; assist clients in acquiring rare collections; arrange domestic and international art appreciation and study tours."
+        text: "Provide guidance on art collection strategies; Assist acquiring rare and precious collections; Arrange art appreciation and study tours around the world."
       }
     },
     
     contact: {
-      title: "Contact Us",
-      collaboration: "At Houtu Capital, we are always looking for new opportunities and partners to create value and drive future innovation.",
-      email: "If you're interested in learning more, please feel free to contact us via email:<br>jenny.xue@hotucapital.com",
+      title: "CONTACT",
+      collaboration: "At the HOTU CAPITAL, we are always looking for new opportunities and partners to align ourselves with in order to create value and drive future innovation.",
+      email: "If you are interested in learning more, please do not hesitate to contact us at <br> jenny.xue@hotucapital.com",
       locations: "Beijing | Shenzhen | Hong Kong | Dubai | Tokyo | Boston"
     }
   }
