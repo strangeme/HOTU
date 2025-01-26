@@ -197,8 +197,6 @@ h2::after {
 .card p {
   font-size: 1.6rem;
   color: #aaa;
-  text-align: justify;
-  text-justify: inter-word;
 }
 
 /* 联系我们部分 */
