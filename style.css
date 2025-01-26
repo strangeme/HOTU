@@ -216,23 +216,21 @@ h2::after {
   color: #fff;
   margin: 2rem 0;
   padding: 1.5rem;
-  background-color: #222;
   border-radius: 0.5rem;
   display: inline-block;
 }
 
 .contact-email {
-  font-size: 2rem;
+  font-size: 2.4rem;
   color: #fff;
   margin: 2rem 0;
   padding: 1.5rem;
-  background-color: #222;
   border-radius: 0.5rem;
   display: inline-block;
 }
 
 .locations {
-  font-size: 1.8rem;
+  font-size: 2rem;
   color: #ddd;
   margin-top: 2rem;
 }
