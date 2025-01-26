@@ -129,7 +129,6 @@ h2::after {
 #about .description {
   font-size: 2rem;
   text-align: justify;
-  text-justify: inter-word;
   max-width: 1000px;
   margin: 0 auto 4rem;
   line-height: 1.8;
@@ -197,6 +196,7 @@ h2::after {
 .card p {
   font-size: 1.6rem;
   color: #aaa;
+  text-align: justify;
 }
 
 /* 联系我们部分 */
