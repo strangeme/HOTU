@@ -74,7 +74,7 @@ const translations = {
     contact: {
       title: "联系我们",
       collaboration: "在厚图资本，我们一直在寻找新的机会和合作伙伴，以创造价值并推动未来的创新。",
-      email: "如果您有兴趣了解更多，请随时通过邮件联系我们：<br>jenny.xue@hotucapital.com",
+      email: "如果您有兴趣了解更多，请随时通过邮件联系我们：<br>Info@hotucapital.com",
       locations: "北京 | 深圳 | 香港 | 迪拜 | 东京 | 波士顿"
     }
   },
@@ -154,7 +154,7 @@ const translations = {
     contact: {
       title: "Contact Us",
       collaboration: "At Houtu Capital, we are always looking for new opportunities and partners to create value and drive future innovation.",
-      email: "If you're interested in learning more, please feel free to contact us via email:<br>jenny.xue@hotucapital.com",
+      email: "If you're interested in learning more, please feel free to contact us via email:<br>Info@hotucapital.com",
       locations: "Beijing | Shenzhen | Hong Kong | Dubai | Tokyo | Boston"
     }
   }
